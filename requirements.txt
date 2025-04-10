@@ -6,4 +6,4 @@ epanettools
 openpyxl
 xlsxwriter
 graphviz
-Pillow
+pillow==9.5.0
