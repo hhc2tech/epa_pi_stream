@@ -6,3 +6,6 @@ libfreetype6-dev
 libpng-dev
 libtiff-dev
 tk-dev
+build-essential
+
+
