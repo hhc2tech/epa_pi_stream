@@ -1,5 +1,5 @@
 
-# EPANET Streamlit Cloud Project
+# EPA Stream App
 
 ## Project Overview
 
