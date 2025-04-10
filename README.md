@@ -1,5 +1,6 @@
-# epa_pi_stream
-modelling epa in pip systeam 
+
+# EPANET Streamlit Cloud Project
+
 ## Project Overview
 
 This project provides a web-based tool for modeling and simulating a water distribution network using EPANET API, WNTR, and Streamlit Cloud. The tool allows for flexible input of network data, running hydraulic simulations, and visualizing results.
