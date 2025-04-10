@@ -7,3 +7,4 @@ openpyxl
 xlsxwriter
 graphviz
 pillow==9.5.0
+Pillow
