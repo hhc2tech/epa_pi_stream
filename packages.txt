@@ -1,11 +1,12 @@
 # File packages.txt
 graphviz
-zlib1g-dev
+build-essential
 libjpeg-dev
+zlib1g-dev
 libfreetype6-dev
-libpng-dev
+liblcms2-dev
+libopenjp2-7-dev
 libtiff-dev
 tk-dev
-build-essential
-
+tcl-dev
 
