@@ -1,9 +1,9 @@
 streamlit==1.31.1
-pandas
-plotly
 wntr
-epanettools
 openpyxl
 xlsxwriter
 graphviz
+pandas==1.5.3
 Pillow==9.5.0
+epanettools==0.2.3
+plotly==5.20.0
