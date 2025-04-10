@@ -1,6 +1,8 @@
+# File packages.txt
 graphviz
 zlib1g-dev
 libjpeg-dev
 libfreetype6-dev
 libpng-dev
-
+libtiff-dev
+tk-dev
